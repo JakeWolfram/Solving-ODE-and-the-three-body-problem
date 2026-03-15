@@ -13,3 +13,11 @@ should plot the following quantities over time
 • The distance between the Moon and the Earth
 If we have time, I would also like the code to animate the current position of each celestial
 body. 
+
+Model problem: There are two model problems, though the second one's exact solution
+is quite tricky to work with so use the first for testing. For both physical models, plot the
+total energy. The two physical systems are
+
+y′′ = −y, y(0) = y_0, y′(0) = 0, the simple harmonic oscillator,
+y′′ = − sin(y) y(0) = y_0, y′(0) = 0, the pendulum.
+
